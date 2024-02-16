@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComicsZig</string>
+    <string name="home_error_label">Failed to fetch comics</string>
+    <string name="home_button_retry">Retry</string>
+</resources>
